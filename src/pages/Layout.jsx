@@ -21,9 +21,7 @@ const Layout = () => {
 
   return (
     <>
-        <div className="purposes">
-          Frontend made by academlo instructors for educational purposes
-        </div>
+  
         <MyNavbar
           openCart={openCart}
           logout={logout}
